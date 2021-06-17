@@ -1,0 +1,10 @@
+"name": "Cancoin",
+    "website": "https://cancoins.net",
+    "description": "Cancoin is a BEP20 Token in the BSC system that promotes cryptocurrency as payment method in Mexico.",
+    "explorer": "https://bscscan.com/token/0x573de1aa35e2ccb069b33a979882de98eca36e0d",
+    "type": "BEP20",
+    "symbol": "$CUN",
+    "decimals": 09,
+    "status": "active",
+    "id": "0x573de1aa35e2ccb069b33a979882de98eca36e0d"
+}
